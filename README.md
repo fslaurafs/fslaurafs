@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h3> Obrigada pela visita! :wave: </h3>
+<h3 align="center"> Obrigada pela visita! :wave: </h3>
