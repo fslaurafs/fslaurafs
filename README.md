@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h4 align="center"> :sunflower: Um pouco sobre mim: </h4>
+<h3> :sunflower: Um pouco sobre mim: </h3>
 
 <ul>
     <li> 🎯 Estou sempre em busca da minha melhor versão;</li>
@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h4 align="center"> :heavy_check_mark: Algumas das minhas principais habilidades: </h4>
-
+<h3 align="center"> :heavy_check_mark: Algumas das minhas principais habilidades: </h3>
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="JavaScript" height="30"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="30"/>
@@ -48,7 +47,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h4 align="center"> :pushpin: Me encontre: </h4>
+<h3> :pushpin: Me encontre: </h3>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail--red?style=for-the-badge&logo=gmail&logoColor=red)](mailto:larafernandessorato@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/laurafernandessorato/)
@@ -56,4 +55,4 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h4> Obrigada pela visita! :wave: </h4>
+<h3> Obrigada pela visita! :wave: </h3>
