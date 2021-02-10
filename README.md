@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 
 <h3> :pushpin: Me encontre: </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/LauraFernandesSorato--blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/laurafernandessorato/)
-[![Instagram Badge](https://img.shields.io/badge/fslaurafs--blueviolet?style=for-the-badge&logo=instagram&logoColor=blueviolet)](https://www.instagram.com/fslaurafs/)
+[![Linkedin Badge](https://img.shields.io/badge/LINKEDIN--blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/laurafernandessorato/)
+[![Instagram Badge](https://img.shields.io/badge/INSTAGRAM--ff69b4?style=for-the-badge&logo=instagram&logoColor=ff69b4)](https://www.instagram.com/fslaurafs/)
 [![Gmail Badge](https://img.shields.io/badge/laurafernandessorato@gmail.com--red?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:larafernandessorato@gmail.com)](mailto:larafernandessorato@gmail.com)
 
 <hr>
