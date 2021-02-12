@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3> :sunflower: Um pouco sobre mim: </h3>
 
 <ul>
-    <li> 🎯 Estou sempre em busca da minha melhor versão;</li>
+    <li> :dart: Estou sempre em busca da minha melhor versão;</li>
     <li> :books: Faço graduação em <strong>Engenharia Mecatrônica</strong> na FIAP;
     </li>
     <li> :computer: Pretendo seguir como <strong>UI/UX Designer</strong>;
@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 
 <h3> :pushpin: Me encontre: </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/LINKEDIN--blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/laurafernandessorato/)
-[![Instagram Badge](https://img.shields.io/badge/INSTAGRAM--ff69b4?style=for-the-badge&logo=instagram&logoColor=ff69b4)](https://www.instagram.com/fslaurafs/)
-[![Gmail Badge](https://img.shields.io/badge/laurafernandessorato@gmail.com--red?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:larafernandessorato@gmail.com)](mailto:larafernandessorato@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LINKEDIN--0077b5?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/laurafernandessorato/)
+[![Instagram Badge](https://img.shields.io/badge/INSTAGRAM--e4405f?style=for-the-badge&logo=instagram&logoColor=e4405f)](https://www.instagram.com/fslaurafs/)
+[![Gmail Badge](https://img.shields.io/badge/laurafernandessorato@gmail.com--ea4335?style=for-the-badge&logo=gmail&logoColor=ea4335&link=mailto:larafernandessorato@gmail.com)](mailto:larafernandessorato@gmail.com)
 
 <hr>
 
