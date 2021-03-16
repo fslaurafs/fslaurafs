@@ -23,23 +23,19 @@ Here are some ideas to get you started:
 
 <ul>
     <li> :dart: Estou sempre em busca da minha melhor versão;</li>
-    <li> :books: Faço graduação em <strong>Engenharia Mecatrônica</strong> na FIAP;
-    </li>
-    <li> :computer: Pretendo seguir como <strong>UI/UX Designer</strong>;
-    </li>
-    <li> :camera: <strong>Fotografia</strong> é um dos meus hobbies;
-    </li>
-    <li> :muscle: Gosto de praticar <strong>esportes</strong>;
-    </li>
-    <li> :headphones: Amo escutar <strong>música</strong>;
-    </li>
+    <li> :books: Faço graduação em <strong>Engenharia Mecatrônica</strong> na FIAP;</li>
+    <li> :computer: Pretendo seguir como <strong>UI/UX Designer</strong>;</li>
+    <li> :camera: <strong>Fotografia</strong> é um dos meus hobbies;</li>
+    <li> :headphones: Amo escutar <strong>música</strong>;</li>
+    <li> :video_game: Gosto de jogar <strong>videogame</strong>;</li>
+    <li> :muscle: Gosto de praticar <strong>esportes</strong>;</li>
 </ul>
 
 <hr>
 
 <h3 align="center"> :heavy_check_mark: Algumas das minhas principais habilidades: </h3>
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="JavaScript" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="30"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="30"/>
     <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="CSS3" height="30"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="30"/>
