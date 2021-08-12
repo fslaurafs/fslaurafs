@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h3 align="center"> :heavy_check_mark: Algumas das minhas principais habilidades: </h3>
+<h3 align="center"> :heavy_check_mark: Tecnologias e Ferramentas: </h3>
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="30"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="30"/>
