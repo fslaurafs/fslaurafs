@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>&emsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="30"/>&emsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vuejs" height="30"/>&emsp;
-    <img src="http://www.web2py.com/init/static/images/web2py_logo.png" alt="Web2py" height="30"/>&emsp;
+    <img src="https://fossies.org/linux/web2py/extras/icons/web2py.gif" alt="Web2py" height="30"/>&emsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/MicroPython_new_logo.jpg" alt="Micropython" height="30"/>&emsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" height="30"/>&emsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30"/>&emsp;
