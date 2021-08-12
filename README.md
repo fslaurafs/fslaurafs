@@ -34,16 +34,16 @@ Here are some ideas to get you started:
 
 <h3 align="center"> :heavy_check_mark: Tecnologias e Ferramentas: </h3>
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="30"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="30"/>&nbsp;
-    <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="CSS3" height="30"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="30"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" height="30"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/MicroPython_new_logo.jpg" alt="Micropython" height="30"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" height="30"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="30"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vuejs" height="30"/>&nbsp;
-    <img src="http://www.web2py.com/init/static/images/web2py_logo.png" alt="Web2py" height="30"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="30"/>&emsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="30"/>&emsp;
+    <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="CSS3" height="30"/>&emsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="30"/>&emsp;
+    <img src="https://logowiki.net/uploads/logo/c/c--4.svg" alt="C#" height="30"/>&emsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/MicroPython_new_logo.jpg" alt="Micropython" height="30"/>&emsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" height="30"/>&emsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="30"/>&emsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vuejs" height="30"/>&emsp;
+    <img src="http://www.web2py.com/init/static/images/web2py_logo.png" alt="Web2py" height="30"/>&emsp;
 </p>
 
 <hr>
