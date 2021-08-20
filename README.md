@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 <ul>
     <li> :dart: Estou sempre em busca da minha melhor versão;</li>
-    <li> :books: Faço graduação em <strong>Engenharia Mecatrônica</strong> na FIAP;</li>
     <li> :camera: <strong>Fotografia</strong> é um dos meus hobbies;</li>
     <li> :headphones: Amo escutar <strong>música</strong>;</li>
     <li> :video_game: Gosto de jogar <strong>videogame</strong>;</li>
