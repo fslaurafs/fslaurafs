@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center"> :earth_americas: Hello World, sou a Laura! </h2>
+<h2 align="center"> :earth_americas: Hello World, sou a Laura! :earth_americas:</h2>
 
 <hr>
 
