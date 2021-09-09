@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 
 <div align="center">
     <h3 align="center"> :chart_with_upwards_trend: Estatísticas: </h3>
-    <img align='center' min-width="350px" max-width="350px" width="350px" src="https://github-readme-stats.vercel.app/api?username=fslaurafs&show_icons=true&theme=midnight-purple&cache_seconds=2500">&emsp;
-    <img align='center' min-width="290px" max-width="290px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fslaurafs&hide=html&layout=compact&theme=midnight-purple&cache_seconds=2500">
+    <img align='center' min-width="370px" max-width="370px" width="370px" src="https://github-readme-stats.vercel.app/api?username=fslaurafs&show_icons=true&theme=midnight-purple&cache_seconds=2500">&emsp;
+    <img align='center' min-width="310px" max-width="310px" width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fslaurafs&hide=html&layout=compact&theme=midnight-purple&cache_seconds=2500">
 </div>
 
 <hr>
