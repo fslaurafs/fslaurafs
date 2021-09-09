@@ -19,13 +19,12 @@ Here are some ideas to get you started:
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
-
-<h3> :sunflower: Um pouco sobre mim: </h3>
-
+<!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">-->
 <!-- Gameboy: <img align="right" src="https://i.pinimg.com/originals/99/f3/4b/99f34ba8bba634ec75b26b56a207e489.gif" height="200"/> -->
 <!-- Neon: <img align="right" src="https://media3.giphy.com/avatars/dianapietrzyk/wWrk0vNBjwQp.gif" height="250"/> -->
 <!-- Shark: <img align="right" src="https://images.gamebanana.com/img/ico/sprays/56f1b98f78477.gif" height="250"/> -->
+
+<h3> :sunflower: Um pouco sobre mim: </h3>
 
 <ul>
     <li> :dart: Estou sempre em busca da minha melhor versão;</li>
