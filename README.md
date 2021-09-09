@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <hr>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
+
 <h3> :sunflower: Um pouco sobre mim: </h3>
 
 <!-- Gameboy: <img align="right" src="https://i.pinimg.com/originals/99/f3/4b/99f34ba8bba634ec75b26b56a207e489.gif" height="200"/> -->
@@ -62,7 +64,15 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h3 align="center"> :pushpin: Entre em contato: </h3>
+<div align="center">
+    <h3 align="center"> :chart_with_upwards_trend: Estatísticas: </h3>
+    <img align='center' src="https://github-readme-stats.vercel.app/api?username=fslaurafs&show_icons=true&theme=midnight-purple&cache_seconds=2500">&emsp;
+    <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fslaurafs&hide=html&layout=compact&theme=midnight-purple&cache_seconds=2500">
+</div>
+
+<hr>
+
+<h3 align="center"> :pushpin: Onde me encontrar: </h3>
 
 <div align="center">
     
