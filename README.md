@@ -34,44 +34,45 @@ Shark: <img align="right" src="https://images.gamebanana.com/img/ico/sprays/56f1
 
 <hr>
 
-<h3 align="center"> :heavy_check_mark: Technologies & Tools: </h3>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30"/>&emsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30"/>&emsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30"/>&emsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>&emsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="30"/>&emsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vuejs" height="30"/>&emsp;
-    <img src="https://fossies.org/linux/web2py/extras/icons/web2py.gif" alt="Web2py" height="30"/>&emsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/MicroPython_new_logo.jpg" alt="Micropython" height="30"/>&emsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/cplusplus/cplusplus-plain.svg" alt="C++" height="30"/>&emsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" height="30"/>&emsp;
-    <br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30"/>&emsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="30"/>&emsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/markdown/markdown-original.svg" alt="Markdown" height="30"/>&emsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="30"/>&emsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/windows8/windows8-original.svg" alt="Windows" height="30"/>&emsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" height="30"/>&emsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" height="30"/>&emsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry" height="30"/>&emsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-plain.svg" alt="Git" height="30"/>&emsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original.svg" alt="Github" height="30"/>&emsp;
-</p>
-
-<hr>
-
 <div align="center">
-    <h3 align="center"> :chart_with_upwards_trend: Stats: </h3>
-    <img align='center' min-width="390px" max-width="390px" width="390px" src="https://github-readme-stats.vercel.app/api?username=fslaurafs&show_icons=true&theme=midnight-purple&cache_seconds=2500">&emsp;
-    <img align='center' min-width="330px" max-width="330px" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fslaurafs&hide=html&layout=compact&theme=midnight-purple&cache_seconds=2500">
+    <h3> :heavy_check_mark: Technologies & Tools: </h3>
+    <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vuejs" height="30"/>&emsp;
+        <img src="https://fossies.org/linux/web2py/extras/icons/web2py.gif" alt="Web2py" height="30"/>&emsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/MicroPython_new_logo.jpg" alt="Micropython" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/cplusplus/cplusplus-plain.svg" alt="C++" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" height="30"/>&emsp;
+        <br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/markdown/markdown-original.svg" alt="Markdown" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/windows8/windows8-original.svg" alt="Windows" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-plain.svg" alt="Git" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original.svg" alt="Github" height="30"/>&emsp;
+    </p>
 </div>
 
 <hr>
 
-<h3 align="center"> :pushpin: Find me: </h3>
+<div align="center">
+    <h3> :chart_with_upwards_trend: Statistics: </h3>
+    <img min-width="390px" max-width="390px" width="390px" src="https://github-readme-stats.vercel.app/api?username=fslaurafs&show_icons=true&theme=midnight-purple&cache_seconds=2500">&emsp;
+    <img min-width="330px" max-width="330px" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fslaurafs&hide=html&layout=compact&theme=midnight-purple&cache_seconds=2500">
+</div>
+
+<hr>
 
 <div align="center">
+    <h3> :pushpin: Find me: </h3>
     
 [![Linkedin Badge](https://img.shields.io/badge/LINKEDIN--0077b5?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/laurafernandessorato/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/GMAIL--ea4335?style=for-the-badge&logo=gmail&logoColor=ea4335&link=mailto:larafernandessorato@gmail.com)](mailto:larafernandessorato@gmail.com)&nbsp;
