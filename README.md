@@ -30,7 +30,7 @@ Shark: <img align="right" src="https://images.gamebanana.com/img/ico/sprays/56f1
 
 
 
-<h2 align="center"> :earth_americas: Hello World, I'm Laura! :earth_americas:</h2>
+<h2 align="center"> :earth_americas: Hello World, I'm Laura! :earth_africa:</h2>
 
 <div align="center">
     <h3> :heavy_check_mark: Technologies & Tools: </h3>
