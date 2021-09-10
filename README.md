@@ -12,10 +12,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
-Gameboy: <img align="right" src="https://i.pinimg.com/originals/99/f3/4b/99f34ba8bba634ec75b26b56a207e489.gif" height="200"/>
-Neon: <img align="right" src="https://media3.giphy.com/avatars/dianapietrzyk/wWrk0vNBjwQp.gif" height="250"/>
-Shark: <img align="right" src="https://images.gamebanana.com/img/ico/sprays/56f1b98f78477.gif" height="250"/>
+       Icons:    https://github.com/devicons/devicon
+Emoji Cheats:    https://github.com/ikatyang/emoji-cheat-sheet
+Stats Themes:    https://github.com/anuraghazra/github-readme-stats
+
+     Gameboy:   <img align="right" src="https://i.pinimg.com/originals/99/f3/4b/99f34ba8bba634ec75b26b56a207e489.gif" height="200"/>
+        Neon:   <img align="right" src="https://media3.giphy.com/avatars/dianapietrzyk/wWrk0vNBjwQp.gif" height="250"/>
+       Shark:   <img align="right" src="https://images.gamebanana.com/img/ico/sprays/56f1b98f78477.gif" height="250"/>
+    Computer:   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-                          width="300px" width="300px">
 
 <h3> :sunflower: Um pouco sobre mim: </h3>
 <ul>
@@ -25,7 +29,6 @@ Shark: <img align="right" src="https://images.gamebanana.com/img/ico/sprays/56f1
     <li> :video_game: Gosto de jogar <strong>videogame</strong>;</li>
     <li> :muscle: Gosto de praticar <strong>esportes</strong>;</li>
 </ul>
-<hr>
 -->
 
 
@@ -48,9 +51,9 @@ Shark: <img align="right" src="https://images.gamebanana.com/img/ico/sprays/56f1
         <br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30"/>&emsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/markdown/markdown-original.svg" alt="Markdown" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/markdown/markdown-original.svg" alt="Markdown"                           height="30"/>&emsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/windows8/windows8-original.svg" alt="Windows" height="30"/>&emsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/windows8/windows8-original.svg" alt="Windows"                             height="30"/>&emsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" height="30"/>&emsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" height="30"/>&emsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry" height="30"/>&emsp;
