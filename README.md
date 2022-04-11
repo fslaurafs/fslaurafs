@@ -33,10 +33,10 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 
 
 
-<h2 align="center"> :earth_americas: Hello World, I'm Laura! :earth_africa:</h2>
+<h2 align="center"><samp> :earth_americas: Hello World, I'm Laura! :earth_africa: </samp></h2>
 
 <div align="center">
-    <h3> :heavy_check_mark: Technologies & Tools: </h3>
+    <h3><samp> :heavy_check_mark: Technologies & Tools: </samp></h3>
     <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30"/>&emsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30"/>&emsp;
@@ -65,15 +65,15 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 <hr>
 
 <div align="center">
-    <h3> :chart_with_upwards_trend: Statistics: </h3>
-    <img min-width="390px" max-width="390px" width="390px" src="https://github-readme-stats.vercel.app/api?username=fslaurafs&show_icons=true&theme=midnight-purple&cache_seconds=2500">&emsp;
-    <img min-width="330px" max-width="330px" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fslaurafs&hide=html&layout=compact&theme=midnight-purple&cache_seconds=2500">
+    <h3><samp> :chart_with_upwards_trend: Statistics: </samp></h3>
+    <img min-width="390px" max-width="390px" width="390px" src="https://github-readme-stats.vercel.app/api?username=fslaurafs&show_icons=true&theme=jolly&cache_seconds=2500">&emsp;
+    <img min-width="330px" max-width="330px" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fslaurafs&hide=html&layout=compact&theme=jolly&cache_seconds=2500">
 </div>
 
 <hr>
 
 <div align="center">
-    <h3> :pushpin: Find me: </h3>
+    <h3><samp> :pushpin: Find me: </samp></h3>
     
 [![Linkedin Badge](https://img.shields.io/badge/LINKEDIN--0077b5?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/laurafernandessorato/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/GMAIL--ea4335?style=for-the-badge&logo=gmail&logoColor=ea4335&link=mailto:larafernandessorato@gmail.com)](mailto:larafernandessorato@gmail.com)&nbsp;
@@ -86,4 +86,4 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
     
 <hr>
 
-<h3 align="center"> Thank you for the visit! :wave: </h3>
+<h3 align="center"><samp> Thank you for the visit! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> </samp></h3>
