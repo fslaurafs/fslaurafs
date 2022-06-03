@@ -29,6 +29,8 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
     <li> :video_game: Gosto de jogar <strong>videogame</strong>;</li>
     <li> :muscle: Gosto de praticar <strong>esportes</strong>;</li>
 </ul>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 -->
 
 
@@ -86,4 +88,4 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
     
 <hr>
 
-<h3 align="center"><samp> Thank you for the visit! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> </samp></h3>
+<h3 align="center"><samp> Thank you for the visit! 👋 </samp></h3>
