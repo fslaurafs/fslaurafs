@@ -127,7 +127,7 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 [![Gmail](https://img.shields.io/badge/GMAIL--ea4335?style=for-the-badge&logo=gmail&logoColor=ea4335&link=mailto:larafernandessorato@gmail.com)](mailto:larafernandessorato@gmail.com)&nbsp;
 [![Instagram](https://img.shields.io/badge/INSTAGRAM--e4405f?style=for-the-badge&logo=instagram&logoColor=e4405f)](https://www.instagram.com/fslaurafs/)&nbsp;
 [![Spotify](https://img.shields.io/badge/SPOTIFY--1ed760?style=for-the-badge&logo=spotify&logoColor=1ed760)](https://open.spotify.com/user/laura.sorato)&nbsp;
-[![VSCO](https://img.shields.io/badge/VSCO--b5b5b6?style=for-the-badge&logo=vsco&logoColor=b5b5b6)](https://vsco.co/fslaurafs/gallery)&nbsp;
+[![VSCO](https://img.shields.io/badge/VSCO--b5b5b6?style=for-the-badge&logo=vsco&logoColor=b5b5b6)](https://vsco.co/fslaurafs)&nbsp;
 [![Steam](https://img.shields.io/badge/STEAM--17405b?style=for-the-badge&logo=steam&logoColor=17405b)](https://steamcommunity.com/id/fslaurafs/)&nbsp;
 
 </div>
