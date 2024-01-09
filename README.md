@@ -135,4 +135,4 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
     
 <hr>
 
-<h3 align="right"><samp> Thank you for the visit! 👋 </samp></h3>
+<h3 align="center"><samp> Thank you for the visit! 👋 </samp></h3>
