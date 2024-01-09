@@ -85,7 +85,7 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
        </p>
 </div>
 
-<div align="center">
+<div align="center" max-width="800px">
        <h3><samp> :hammer_and_wrench: Tools: </samp></h3>
        <p>
               <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/windows8/windows8-original.svg" alt="Windows" height="30"/>&emsp;
