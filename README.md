@@ -54,7 +54,6 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30"/>&emsp;
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30"/>&emsp;
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>&emsp;
-              <br>
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30"/>&emsp;
               <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/cplusplus/cplusplus-plain.svg" alt="C++" height="30"/>&emsp;
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" height="30"/>&emsp;
@@ -98,7 +97,6 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="30"/>&emsp;
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" height="30"/>&emsp;
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg" alt="Adobe Premiere" height="30"/>&emsp;
-              <br>
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" height="30"/>&emsp;
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" height="30"/>&emsp;
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry" height="30"/>&emsp;
@@ -136,4 +134,4 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
     
 <hr>
 
-<h3 align="center"><samp> Thank you for the visit! 👋 </samp></h3>
+<h3 align="right"><samp> Thank you for the visit! 👋 </samp></h3>
