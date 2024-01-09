@@ -38,43 +38,94 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 <h2 align="center"><samp> :earth_americas: Hello World, I'm Laura! :earth_africa: </samp></h2>
 
 <div align="center">
-    <h3><samp> :heavy_check_mark: Technologies & Tools: </samp></h3>
-    <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vuejs" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" height="30"/>&emsp;
-        <img src="https://fossies.org/linux/web2py/extras/icons/web2py.gif" alt="Web2py" height="30"/>&emsp;
-        <br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/MicroPython_new_logo.jpg" alt="Micropython" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/cplusplus/cplusplus-plain.svg" alt="C++" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/markdown/markdown-original.svg" alt="Markdown"                           height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/windows8/windows8-original.svg" alt="Windows"                             height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry" height="30"/>&emsp;
-        <br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-plain.svg" alt="Git" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original.svg" alt="Github" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" height="30"/>&emsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Nodejs" height="30"/>&emsp;
-    </p>
+       <h3><samp> :cloud: Cloud Technologies: </samp></h3>
+       
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-gray?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=orange)
+![AZR](https://img.shields.io/badge/Microsoft_Azure-gray?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=blue)
+![GCP](https://img.shields.io/badge/Google_Cloud_Platform-gray?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=red)
+
+</div>
+
+<br>
+
+<div align="center">
+       <h3><samp> :computer: Programming & Markup Languages: </samp></h3>
+       <p>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/markdown/markdown-original.svg" alt="Markdown" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>&emsp;
+              <br>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/cplusplus/cplusplus-plain.svg" alt="C++" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" height="30"/>&emsp;
+</div>
+
+<br>
+
+<div align="center">
+       <h3><samp> :bookmark_tabs: Frameworks & Libraries: </samp></h3>
+       <p>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="JQuery" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vuejs" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="NuxtJS" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" height="30"/>&emsp;
+              <img src="https://fossies.org/linux/web2py/extras/icons/web2py.gif" alt="Web2py" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" height="30"/>&emsp;
+       </p>
+</div>
+
+<br>
+
+<div align="center">
+       <h3><samp> :card_index_dividers: Databases: </samp></h3>
+       <p>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30"/>&emsp;
+       </p>
+</div>
+
+<br>
+
+<div align="center">
+       <h3><samp> :hammer_and_wrench: Tools: </samp></h3>
+       <p>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/windows8/windows8-original.svg" alt="Windows" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="Confluence" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg" alt="Adobe Premiere" height="30"/>&emsp;
+              <br>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-plain.svg" alt="Git" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original.svg" alt="GitHub" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="30"/>&emsp;
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="Putty" height="30"/>&emsp;
+       </p>
 </div>
 
 <hr>
 
 <div align="center">
     <h3><samp> :chart_with_upwards_trend: Statistics: </samp></h3>
-    <img min-width="390px" max-width="390px" width="390px" src="https://github-readme-stats.vercel.app/api?username=fslaurafs&show_icons=true&theme=jolly&cache_seconds=2500">&emsp;
-    <img min-width="330px" max-width="330px" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fslaurafs&hide=html&layout=compact&theme=jolly&cache_seconds=2500">
+    <img min-width="390px" max-width="390px" width="390px" src="https://github-readme-stats.vercel.app/api?username=fslaurafs&show_icons=true&theme=jolly&cache_seconds=2500"> &emsp;
+    <img min-width="300px" max-width="300px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fslaurafs&hide=html&layout=compact&theme=jolly&cache_seconds=2500">
 </div>
 
 <hr>
