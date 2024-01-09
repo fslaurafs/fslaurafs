@@ -70,7 +70,6 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="NuxtJS" height="30"/>&emsp;
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" height="30"/>&emsp;
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" height="30"/>&emsp;
-              <img src="https://fossies.org/linux/web2py/extras/icons/web2py.gif" alt="Web2py" height="30"/>&emsp;
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" height="30"/>&emsp;
        </p>
 </div>
