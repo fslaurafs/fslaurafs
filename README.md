@@ -46,8 +46,6 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 
 </div>
 
-<br>
-
 <div align="center">
        <h3><samp> :computer: Programming & Markup Languages: </samp></h3>
        <p>
@@ -64,8 +62,6 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" height="30"/>&emsp;
 </div>
 
-<br>
-
 <div align="center">
        <h3><samp> :bookmark_tabs: Frameworks & Libraries: </samp></h3>
        <p>
@@ -80,8 +76,6 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
        </p>
 </div>
 
-<br>
-
 <div align="center">
        <h3><samp> :card_index_dividers: Databases: </samp></h3>
        <p>
@@ -91,8 +85,6 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30"/>&emsp;
        </p>
 </div>
-
-<br>
 
 <div align="center">
        <h3><samp> :hammer_and_wrench: Tools: </samp></h3>
