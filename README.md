@@ -35,7 +35,7 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 
 
 
-<h2 align="center"><samp> :earth_americas: Hello World, I'm Laura! :earth_africa: </samp></h2>
+<h2 align="center"><samp> :earth_americas: Hello World, I'm Laura!</samp></h2>
 
 <div align="center">
        <h3><samp> :cloud: Cloud Technologies: </samp></h3>
