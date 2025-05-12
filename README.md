@@ -117,8 +117,8 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 
 <div align="left">
     <h2><samp> :chart_with_upwards_trend: GitHub Stats: </samp></h2>
-    <img min-width="390px" max-width="390px" width="390px" src="https://github-readme-stats.vercel.app/api?username=fslaurafs&show_icons=true&theme=jolly&cache_seconds=2500"> &emsp;
-    <img min-width="300px" max-width="300px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fslaurafs&hide=html&layout=compact&theme=jolly&cache_seconds=2500">
+    <img min-width="390px" max-width="390px" width="390px" src="https://github-readme-stats.vercel.app/api?username=fslaurafs&show_icons=true&theme=gotham&cache_seconds=2500"> &emsp;
+    <img min-width="300px" max-width="300px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fslaurafs&hide=html&layout=compact&theme=gotham&cache_seconds=2500">
 </div>
 
 <br>
