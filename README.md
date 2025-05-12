@@ -119,11 +119,11 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 <div align="left">
     <h2><samp> :pushpin: Find me: </samp></h2>
     
-[![Linkedin](https://img.shields.io/badge/LINKEDIN--0077b5?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/laurafernandessorato/)&nbsp;
-[![Instagram](https://img.shields.io/badge/INSTAGRAM--e4405f?style=for-the-badge&logo=instagram&logoColor=e4405f)](https://www.instagram.com/fslaurafs/)&nbsp;
-[![Spotify](https://img.shields.io/badge/SPOTIFY--1ed760?style=for-the-badge&logo=spotify&logoColor=1ed760)](https://open.spotify.com/user/laura.sorato)&nbsp;
-[![VSCO](https://img.shields.io/badge/VSCO--b5b5b6?style=for-the-badge&logo=vsco&logoColor=b5b5b6)](https://vsco.co/fslaurafs/)&nbsp;
-[![Steam](https://img.shields.io/badge/STEAM--17405b?style=for-the-badge&logo=steam&logoColor=17405b)](https://steamcommunity.com/id/fslaurafs/)&nbsp;
+[![Linkedin](https://img.shields.io/badge/LINKEDIN--0077b5?style=for-the-badge)](https://www.linkedin.com/in/laurafernandessorato/)&nbsp;
+[![Instagram](https://img.shields.io/badge/INSTAGRAM--e4405f?style=for-the-badge)](https://www.instagram.com/fslaurafs/)&nbsp;
+[![Spotify](https://img.shields.io/badge/SPOTIFY--1ed760?style=for-the-badge)](https://open.spotify.com/user/laura.sorato)&nbsp;
+[![VSCO](https://img.shields.io/badge/VSCO--b5b5b6?style=for-the-badge)](https://vsco.co/fslaurafs/)&nbsp;
+[![Steam](https://img.shields.io/badge/STEAM--17405b?style=for-the-badge)](https://steamcommunity.com/id/fslaurafs/)&nbsp;
 
 </div>
     
