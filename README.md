@@ -49,7 +49,7 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 <h2 align="left">:medal_sports: My skills:</h2>
 
 <div align="left">
-       <h4><samp> Cloud Technologies: </samp></h4>
+       <b><samp> Cloud Technologies: </samp></b>
 
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-orange?style=flat) 
 ![AZR](https://img.shields.io/badge/Microsoft_Azure-blue?style=flat) 
@@ -58,27 +58,20 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 </div>
 
 <div align="left">
-       <h4><samp> Markup Languages: </samp></h4>
+       <b><samp> Markup and Programming Languages: </samp></b>
 
 ![Markdown](https://img.shields.io/badge/Markdown-lightgray?style=flat&logo=markdown&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML-tomato?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)
-
-</div>
-
-<div align="left">
-       <h4><samp> Programming Languages: </samp></h4>
-       
 ![Terraform](https://img.shields.io/badge/Terraform-blueviolet?style=flat&logo=terraform&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-steelblue?style=flat&logo=cplusplus&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-firebrick?style=flat&logo=java&logoColor=white) 
-
 </div>
 
 <div align="left">
-       <h4><samp> Frameworks & Libraries: </samp></h4>
+       <b><samp> Frameworks & Libraries: </samp></b>
 
 ![Botstrap](https://img.shields.io/badge/Bootstrap-darkviolet?style=flat&logo=bootstrap&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery&logoColor=white) 
@@ -92,7 +85,7 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 </div>
 
 <div align="left">
-       <h4><samp> Databases: </samp></h4>
+       <b><samp> Databases: </samp></b>
 
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=flat&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white) 
@@ -101,7 +94,7 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 </div>
 
 <div align="left">
-       <h4><samp> Tools: </samp></h4>
+       <b><samp> Tools: </samp></b>
 
 ![Figma](https://img.shields.io/badge/Figma-lightgray?style=flat&logo=figma&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-blue?style=flat&logo=trello&logoColor=white) 
