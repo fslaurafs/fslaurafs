@@ -46,7 +46,7 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 
 <br>
 
-<h2 align="left">:medal_sports: My skills:</h2>
+<h2 align="left">:medal_sports: Skills:</h2>
 
 <div align="left">
        <b><samp> Cloud Technologies: </samp></b>
