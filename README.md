@@ -31,9 +31,15 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 </ul>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
--->
 
 <h1 align="center"><samp> :earth_americas: Hello World, I'm Laura!</samp></h1> 
+-->
+
+<h1 align="center">
+       
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=20C20E&center=true&vCenter=true&width=435&lines=%F0%9F%8C%8E+Hello+World%2C+I'm+Laura!)](https://git.io/typing-svg)
+
+</h1> 
 
 <br>
 
@@ -41,7 +47,7 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 
 :rocket: Exploring new technologies and developing IT solutions. <br>
 :mortar_board: Graduated in Mechatronic Engineering at FIAP in 2023. <br>
-:woman_office_worker: Working as a DevOps Analyst at Porto. <br>
+:woman_office_worker: Working with Cloud Platform Enginnering as a DevOps Analyst at Porto. <br>
 :sparkles: Photography and Muay Thai are my hobbies.
 
 <br>
@@ -53,17 +59,18 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-orange?style=flat) 
 ![AZR](https://img.shields.io/badge/Microsoft_Azure-blue?style=flat) 
-![GCP](https://img.shields.io/badge/Google_Cloud_Platform-tomato?style=flat)
+![GCP](https://img.shields.io/badge/Google_Cloud_Platform-yellow?style=flat)
+![OCI](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-tomato?style=flat)
 
 </div>
 
 <div align="left">
        <b><samp> Markup and Programming Languages: </samp></b>
 
+![Terraform](https://img.shields.io/badge/Terraform-blueviolet?style=flat&logo=terraform&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-lightgray?style=flat&logo=markdown&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML-tomato?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-blueviolet?style=flat&logo=terraform&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-steelblue?style=flat&logo=cplusplus&logoColor=white) 
@@ -76,8 +83,6 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 ![Botstrap](https://img.shields.io/badge/Bootstrap-darkviolet?style=flat&logo=bootstrap&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery&logoColor=white) 
 ![VueJs](https://img.shields.io/badge/Vue.js-darkolivegreen?style=flat&logo=vuedotjs&logoColor=white) 
-![Vuetify](https://img.shields.io/badge/Vuetify-darkturquoise?style=flat&logo=vuetify&logoColor=white) 
-![Nuxt](https://img.shields.io/badge/Nuxt-darkcyan?style=flat&logo=nuxt&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular-crimson?style=flat&logo=angular&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-green?style=flat&logo=springboot&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=flat&logo=opencv&logoColor=white)
@@ -89,7 +94,6 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
 
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=flat&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-goldenrod?style=flat&logo=firebase&logoColor=white)
 
 </div>
 
@@ -97,9 +101,7 @@ Stats Themes:    https://github.com/anuraghazra/github-readme-stats
        <b><samp> Tools: </samp></b>
 
 ![Figma](https://img.shields.io/badge/Figma-lightgray?style=flat&logo=figma&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-blue?style=flat&logo=trello&logoColor=white) 
-![Jira](https://img.shields.io/badge/Jira-blue?style=flat&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-blue?style=flat&logo=confluence&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-blue?style=flat&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-limegreen?style=flat&logo=jenkins&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-lightseagreen?style=flat&logo=arduino&logoColor=white)
